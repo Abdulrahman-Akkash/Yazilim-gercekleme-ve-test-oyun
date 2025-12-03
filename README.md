@@ -54,14 +54,6 @@ cd yourrepo
 npm install
 npm start
 
-📁 Project Structure
-/src
-  ├── stories/
-  ├── games/
-  ├── drawing/
-  ├── auth/
-  └── assets/
-
 👨‍👩‍👧‍👦 Target Audience
 
 This app is built specifically for children ages 5–6, focusing on:
