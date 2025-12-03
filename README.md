@@ -1,20 +1,75 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+📚 Kids Learning App
 
-# Run and deploy your AI Studio app
+Fun, safe, and interactive learning for children aged 5–6.
 
-This contains everything you need to run your app locally.
+This application is designed to help young children learn through stories, mini-games, and drawing activities. The interface is colorful, simple, and child-friendly.
+Access to the app is protected using a logo-selection password system, making it easy for kids but secure for parents/teachers.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Vkxx6mvI7gBBqeOr8V30qZGlCrK5W-y_
+✨ Features
+🎨 Drawing Board
 
-## Run Locally
+Kids can draw freely
 
-**Prerequisites:**  Node.js
+Color palette
 
+Simple and intuitive UI
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+📖 Story Mode
+
+Short, age-appropriate stories
+
+Colorful illustrations
+
+Easy navigation for kids
+
+🎮 Mini Games
+
+Simple educational games
+
+Improves memory, shapes, and color recognition
+
+Made for 5–6 year old children
+
+🔐 Logo-Based Login
+
+Instead of typing a password, kids choose a sequence of logos
+
+Safe and child-friendly
+
+Prevents accidental access by other children
+
+🛠️ Tech Stack
+
+Node.js / JavaScript
+
+Express.js (if backend exists)
+
+Local Storage / API depending on your setup
+
+HTML, CSS, JS (frontend)
+
+🚀 Installation
+git clone https://github.com/yourusername/yourrepo.git
+cd yourrepo
+npm install
+npm start
+
+📁 Project Structure
+/src
+  ├── stories/
+  ├── games/
+  ├── drawing/
+  ├── auth/
+  └── assets/
+
+👨‍👩‍👧‍👦 Target Audience
+
+This app is built specifically for children ages 5–6, focusing on:
+
+Creativity
+
+Early reading
+
+Pattern and memory development
+
+Simple interaction
